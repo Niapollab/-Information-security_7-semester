@@ -1,7 +1,7 @@
 #!/usr/bin/env python
+from itertools import islice
 from math import sqrt
 from random import randrange
-from itertools import islice
 from typing import Iterable, Sequence
 
 
